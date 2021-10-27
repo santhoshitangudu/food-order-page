@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.card{
+    background-image: url(foodbg.png);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.card1{
+    background-color: #f6c56e;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius:20px ;
+}
+.headding{
+    font-family: "Bree Serif";
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 32px;
+
+}
+.para{
+    font-family: "roboto";
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 900;
+}
+.button{
+    background-color: #ffffff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+}
